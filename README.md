@@ -43,8 +43,5 @@ Las ventajas que trajo consigo el lenguaje de Python3 para el desarrollo de este
 
 El equipo está integrado por:
 
-- [Juan Pablo Sierra Useche](https://github.com/JuanPab3)
+- [Juan Pablo Sierra Useche](https://github.com/yeiipi)
 - [Nataly Alejandra Sarmiento Ospina](https://github.com/naso071699)
-__ __ __ __
-
-muchas gracias *<3*
